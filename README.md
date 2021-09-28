@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## React documentation for WebStorm
+
+Make sure you have [React with WebStorm](https://www.jetbrains.com/help/webstorm/react.html) on your computer:
+
+
+## Before you start
+
+Make sure you have [Node.js](https://nodejs.org/en/) on your computer:
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## I've developed following instructions on the video below:
+
+[How to Build a Instagram Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=f7T48W0cwXM&ab_channel=CleverProgrammerv)
