@@ -13,11 +13,31 @@ Make sure you have [React with WebStorm](https://www.jetbrains.com/help/webstorm
 Make sure you have [Node.js](https://nodejs.org/en/) on your computer:
 
 
+## Create a Firebase console for the app
+
+The following command will install all the Firebase tools [Firebase Instaflam-app](https://console.firebase.google.com/u/0/project/instaflam-app/overview) on your computer:
+
+### `npm install -g firebase-tools` (1st step)
+
+## Firebase (https://console.firebase.google.com/u/0/project/instaflam-app/overview)
+
+You can deploy now or later. To deploy now open a terminal window, then navigate to or create a root directory for your web app:
+
+### `firebase login`
+
+Initiate your project. Run this command from your app' root directory:
+
+### `firebase init`
+
+When you're ready, deploy your web app. Put your static files (HTML, CSS, JS, etc) in your app's deploy directory (the default is public). Then run this command from your app's root directory:
+
+### `firebase deploy`
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` (2nd step)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -81,6 +101,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## I've developed following instructions on the video below:
+## I've developed following instructions on the tutorial below:
 
 [How to Build a Instagram Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=f7T48W0cwXM&ab_channel=CleverProgrammerv)
